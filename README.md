@@ -19,3 +19,4 @@ Find the app running at http://localhost:8000/calendar/!
 <img src=/images/calendar_v2.0.png/>
 <img src=/images/calendar_v2.0_form_new.png/>
 <img src=/images/calendar_v2.0_form_edit.png/>
+# django-calendar
